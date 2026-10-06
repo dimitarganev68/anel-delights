@@ -8,3 +8,5 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the ANEL 007 storefront as a single scrolling experience because its navigation is designed around one cohesive local-shop story.
